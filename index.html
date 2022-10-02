@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-    #visor_imagenes {
-  text-align: center;
-}
 
-.blanco-rojo {
-  color: #FFFFFF;
-  background-color: red;
-}
      
 <head>
     <meta charset="UTF-8">
@@ -17,7 +10,14 @@
     <script src='https://cdn.plot.ly/plotly-2.14.0.min.js'></script>
 </head>
 <body>
-   
+       #visor_imagenes {
+  text-align: center;
+}
+
+.blanco-rojo {
+  color: #FFFFFF;
+  background-color: red;
+}
 
     <h2 id='visor_imagenes'><span class="blanco-rojo">SISTEMAS DE ECUACIONES</span></h2> 
 
@@ -26,12 +26,12 @@
       <div>
         <div class="servicios">
           <div>
-            <center> <label for="">Numero de incognitas</label>
-            <input id="filas" type="text" placeholder="Numero de filas"><br> </center>
+          <label for="">Numero de incognitas</label>
+            <input id="filas" type="text" placeholder="Numero de filas"><br> 
           </div>
         </div>
         <div>
-          <center> <button class="btn btn-primary mt-3" onclick="crearsistemas()">Crear Sistema</button> </center>
+          <button class="btn btn-primary mt-3" onclick="crearsistemas()">Crear Sistema</button>
         </div>
       </div>
     </div>

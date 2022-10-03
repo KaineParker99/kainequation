@@ -11,4 +11,13 @@ P {color:red;
    text-transform:capitalize;
    text-align:center;
    text-indent:30px;
+   border:2px;
+   border-color:blue;
+   border-style:solid;
+   width:200px; 
+   height:100px;
+   
+   background-image: white;  
+   background-attachment: fixed;
+   background-repeat: repeat;
   }

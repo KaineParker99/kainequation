@@ -1,0 +1,69 @@
+BODY {text-align:center;
+	background-color:#F5F4D5
+}
+
+
+
+P {color:white; 
+   font-size:20px;
+   font-family:Courier;
+   font-weight:bold;
+   font-style:italic;
+    text-shadow: 0.5px  0px 0px black,
+               0px  0.5px 0px black,
+              -0.5px  0px 0px black,
+               0px -0.5px 0px black;
+   line-height:30px;
+   letter-spacing:5px;
+   text-decoration:underline;
+   text-transform:capitalize;
+   text-align:center;
+   text-indent:30px;
+   width:800px; 
+   height:30px;
+   background: #3BB799;  
+}
+
+   h1.nom{ color: white; 
+   font-size:50px;
+
+   line-height:50px;
+   letter-spacing:5px;
+   
+	text-shadow: 0.5px  0px 0px black,
+               0px  0.5px 0px black,
+              -0.5px  0px 0px black,
+               0px -0.5px 0px black;
+   text-align:center;
+   text-indent:60px;
+   width:800px; 
+   height:105px;
+   background-color:#D55B8F ; 
+	   
+   }
+   .button {
+    background-color: #EDD672; /* Green */
+    border: 2px solid black
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	
+}
+  .aviso {
+  padding: 0.5em;
+  border: 1px solid #98be10;
+  background: #D55B8F;
+  color: white;
+}
+  «<! ––«, #F5F4D5 
+     font-family:Courier;
+   font-weight:bold;
+   font-style:italic;
+     text-transform:capitalize;
+	 text-decoration:underline;
+  «––>«
+  
+ 
